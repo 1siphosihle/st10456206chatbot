@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaUA40/MfCw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khaya\\OneDrive\\Desktop\\PROG ASSIGNMENT\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khaya\\.nuget\\packages\\system.windows.extensions\\10.0.5\\system.windows.extensions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
